@@ -46,9 +46,8 @@ This project automates the process of registering on a matrimony website using S
      ```sh
      git clone https://github.com/yourusername/matrimony-registration.git
      cd matrimony-registration
-    ```
-
-  **Install Maven dependencies**:
+     ```
+  2. **Install Maven dependencies**:
     ```sh
     maven Install
     ```
@@ -61,7 +60,7 @@ This project automates the process of registering on a matrimony website using S
     </dependency>
     ```
 
-    ## Examples of Use
+## Examples of Use
 - Automating repetitive form submissions.
 - Testing the registration process on a website.
 
