@@ -9,7 +9,7 @@ This project automates the process of registering on a matrimony website using S
    - **Wait Handling**: Uses Thread.sleep() for wait handling to ensure elements are loaded before interacting with them (can be improved using explicit waits).
    - **XPath and CSS Selectors**: Utilizes XPath and CSS Selectors to locate and interact with web elements.
 
-     ### 1. Automated Form Filling
+### 1. Automated Form Filling
 - **Description**: The script automates the entire process of filling out the registration form on a matrimony website, reducing manual effort and time.
 - **Benefit**: Saves time and ensures consistency by automating repetitive tasks.
 
