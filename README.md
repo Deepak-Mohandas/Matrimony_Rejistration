@@ -44,8 +44,8 @@ This project automates the process of registering on a matrimony website using S
   ### Setup and Installation
   1. **Clone the Repository**:
      ```sh
-    git clone https://github.com/yourusername/matrimony-registration.git
-    cd matrimony-registration
+     git clone https://github.com/yourusername/matrimony-registration.git
+     cd matrimony-registration
     ```
 
   **Install Maven dependencies**:
