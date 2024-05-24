@@ -20,9 +20,9 @@ public class MatrimonyAutomate {
 		driver.findElement(By.xpath("//label[text() = 'Male']")).click();
 		Thread.sleep(3000);
 		// to enter name
-		driver.findElement(By.xpath("//input[@name = 'NAME']")).sendKeys("Deepak Mohan");
+		driver.findElement(By.xpath("//input[@name = 'NAME']")).sendKeys("D*** M****n");
 		// to enter mobile number
-		driver.findElement(By.xpath("//input[@placeholder = 'Enter Mobile Number']")).sendKeys("6238482554");
+		driver.findElement(By.xpath("//input[@placeholder = 'Enter Mobile Number']")).sendKeys("628*****");
 		Thread.sleep(3000);
 		// to click register free button
 		driver.findElement(By.xpath("//input[@type = 'button']")).click();
@@ -46,9 +46,9 @@ public class MatrimonyAutomate {
 		Select s3 = new Select (religion);
 		s3.selectByIndex(1);
 		//to enter gmail
-		driver.findElement(By.xpath("//input[@name = 'EMAIL']")).sendKeys("deepakvish154@gmail.com");
+		driver.findElement(By.xpath("//input[@name = 'EMAIL']")).sendKeys("de&&&&&&@gmail.com");
 		//to enter password
-		driver.findElement(By.xpath("//input[@class = 'regis-input']")).sendKeys("deepakvish154@");
+		driver.findElement(By.xpath("//input[@class = 'regis-input']")).sendKeys("dee*******@");
 		//to click continue button
 		driver.findElement(By.xpath("//button[@alt= 'Continue']")).click();
 		Thread.sleep(3000);
